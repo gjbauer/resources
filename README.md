@@ -1,3 +1,9 @@
+<!DOCTYPE NETSCAPE-Bookmark-file-1>
+<!-- This is an automatically generated file.
+     It will be read and overwritten.
+     DO NOT EDIT! -->
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+<TITLE>Bookmarks</TITLE>
 <H1>Bookmarks</H1>
 <DL><p>
     <DT><H3 ADD_DATE="1741399136" LAST_MODIFIED="1746727616" PERSONAL_TOOLBAR_FOLDER="true">Bookmarks bar</H3>
@@ -6,7 +12,8 @@
             <DT><H3 ADD_DATE="1746727525" LAST_MODIFIED="1746727601">Operating Systems</H3>
             <DL><p>
                 <DT><A HREF="https://stackoverflow.com/questions/47455163/how-to-call-assembly-functions-inside-rust" ADD_DATE="1746653518" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABXklEQVQ4jbWQsUsCYRjGn/fuSu/Sk3ALmlzNtoagKRqSaHMKGkKhEOV0KWispSXPQaglAnNobOgfaCyIcgicmxO9zFPv/N5WwTs5gt7x+5739/2eDwgw/bK67HcnBQG4Ag3L0LJ/BoBFDuDzTiGUCAywDC3bNbRtANCrwxaBziRZanAGcjADwR8AX1uGesEZyFGzXwO43VsKn07GaJa5lY/GMefUAYooEvaELDnCEW9M2I1V7GdPg04hlLAM7dYqqut67ftLNwdpMB5dgRfXdVMgHIFpx9egfbwYk0eDA2LKAWJMkK6cUOhOGdkpZmoQiy29OmwFq1AKb5CgQyakAXqQJKpELn/eJzPK1JKhPhHjk4EmMzUVmU/coVLkeXff672pk155YXUsxikCJQFeYVCSgCiAV920N311b+r37FslH413S+qaV86rggfIBbG38RRAN+2ZHzsTMKvGv80vvziHGAusG84AAAAASUVORK5CYII=">How to call assembly functions inside Rust? - Stack Overflow</A>
-                <DT><A HREF="https://blog.henrygressmann.de/rust-os/1-hello-riscv/" ADD_DATE="1746727453">Hello RISC-V in Rust</A>
+                <DT><A HREF="https://users.rust-lang.org/t/how-to-deal-best-with-size-t-and-bindgen/73525" ADD_DATE="1746727453">How to deal best with size_t and bindgen</A>
+		<DT><A HREF="https://blog.henrygressmann.de/rust-os/1-hello-riscv/" ADD_DATE="1746727453">Hello RISC-V in Rust</A>
                 <DT><A HREF="https://www.dgp.toronto.edu/~kenxu/csc209/unixfilesystem-wk1.pdf" ADD_DATE="1746727598" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACQUlEQVQ4jXWSXUjTYRTG3/N/p9PNHGNmqZVLLUaLCCKMLvqiqERY4AJT0LuIiCwkCIpuirqRKCG6yLzxIsyLGMUElQj7MgjEmeYHDs3yqzmnTmv/3nNOFy+OQXmu3vd5nnPOxfkBETGz+KcAIFXXXwAw/psWQqwjC0tKgolYSmNtGAsBqS4ACCEAEbVkGIY21nYCCE62JBcaQog/SiFRz+f+u/ebE6bJzEoXIhErRUoRIhExAAillJ7a1BKwuA7EFpd4/VJKWaSUHa973n7sG/82lZ+Xa7WmhwZGX7a/s2dlZKSnHSzd0/dlRCkeHB73+46W7tttBDve+6qvLcdXI9FYWrqlNzR0quJyfPVX24vO2w3Ns3PR2ot3gp0fFmJLp/11vaEho+V5u9ez/cG9qzWVZYgUXYgjUkX54dwcl9dTtMtTlJlhrb9U1dR4w2bLDAS7jWJ3fnhiavL77PDoRCQaO3Fkv6/sUM35WztKtj1tvPk7kUDE8Pj0wHB47mfUXZhnqbtwrjc0cqa63uFw7PWWINLUzDwrMldXQoNjxe4Cu8366EnrwmK8yn/yrO+4vhf+mJ6Nr6wkEubDx8+2eMtfBbuvXG8wXKVdbz453cfaAp2RSJSZmNCCiAAif3MuIkopd5YUOh1ZrYGumbn52sqyjTlOIrbbbC6X0zRNKSUQIbNgFgCCmaWUS8vxga/h7Gy711NsmubI2OTWgk0bsmw6A4gkhEiiqXs0BUQEABohIh0DIEKNijZScdKKxi75/gtDP28utBDViAAAAABJRU5ErkJggg==">The Unix File System</A>
             </DL><p>
             <DT><H3 ADD_DATE="1746727746" LAST_MODIFIED="1746727799">Architecture</H3>
