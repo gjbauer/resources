@@ -28,7 +28,7 @@
             </DL><p>
 	    <DT><H3 ADD_DATE="1746727525" LAST_MODIFIED="1746727601">Mobile</H3>
             <DL><p>
-		    DT><A HREF="https://forgen.tech/en/blog/post/building-an-ios-app-with-rust-using-uniffi" ADD_DATE="1746727453">Building an iOS App with Rust Using UniFFI</A>
+		    <DT><A HREF="https://forgen.tech/en/blog/post/building-an-ios-app-with-rust-using-uniffi" ADD_DATE="1746727453">Building an iOS App with Rust Using UniFFI</A>
 	    </DL><p>
             <DT><H3 ADD_DATE="1746727557" LAST_MODIFIED="1746727598">Misc</H3>
             <DL><p>
