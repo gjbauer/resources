@@ -26,10 +26,6 @@
 		<DT><A HREF="https://www.youtube.com/watch?v=pePqWoTnSmQ" ADD_DATE="1746727453">Crust of Rust: Build Scripts and Foreign-Function Interfaces (FFI)</A>
                 <DT><A HREF="https://stackoverflow.com/questions/47455163/how-to-call-assembly-functions-inside-rust" ADD_DATE="1746653518" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABXklEQVQ4jbWQsUsCYRjGn/fuSu/Sk3ALmlzNtoagKRqSaHMKGkKhEOV0KWispSXPQaglAnNobOgfaCyIcgicmxO9zFPv/N5WwTs5gt7x+5739/2eDwgw/bK67HcnBQG4Ag3L0LJ/BoBFDuDzTiGUCAywDC3bNbRtANCrwxaBziRZanAGcjADwR8AX1uGesEZyFGzXwO43VsKn07GaJa5lY/GMefUAYooEvaELDnCEW9M2I1V7GdPg04hlLAM7dYqqut67ftLNwdpMB5dgRfXdVMgHIFpx9egfbwYk0eDA2LKAWJMkK6cUOhOGdkpZmoQiy29OmwFq1AKb5CgQyakAXqQJKpELn/eJzPK1JKhPhHjk4EmMzUVmU/coVLkeXff672pk155YXUsxikCJQFeYVCSgCiAV920N311b+r37FslH413S+qaV86rggfIBbG38RRAN+2ZHzsTMKvGv80vvziHGAusG84AAAAASUVORK5CYII=">How to call assembly functions inside Rust? - Stack Overflow</A>
             </DL><p>
-	    <DT><H3 ADD_DATE="1746727525" LAST_MODIFIED="1746727601">Mobile</H3>
-            <DL><p>
-		    <DT><A HREF="https://forgen.tech/en/blog/post/building-an-ios-app-with-rust-using-uniffi" ADD_DATE="1746727453">Building an iOS App with Rust Using UniFFI</A>
-	    </DL><p>
             <DT><H3 ADD_DATE="1746727557" LAST_MODIFIED="1746727598">Misc</H3>
             <DL><p>
                 <DT><A HREF="http://www.cse.yorku.ca/~oz/hash.html" ADD_DATE="1746036766">cse.yorku.ca/~oz/hash.html</A>
